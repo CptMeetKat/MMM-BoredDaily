@@ -1,5 +1,5 @@
-# BoredDaily
-Plugin for MagicMirror2 to display the [Bored API](https://www.boredapi.com/).
+# MMM-BoredDaily
+Plugin for MagicMirror2 to display the free [Bored API](https://www.boredapi.com/).
 
 ## Dependencies
   * A [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror) installation
