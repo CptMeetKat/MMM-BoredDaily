@@ -30,4 +30,4 @@ Plugin for MagicMirror2 to display the [Bored API](https://www.boredapi.com/).
 ## Config
 | **Option** | **Description** |
 | --- | --- |
-| `updateInterval` | Set to desired update interval (in ms), default is `3600000` (10 hours). |
+| `updateInterval` | Set to desired update interval (in seconds), default is `10` (10 seconds). |
