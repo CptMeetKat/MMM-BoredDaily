@@ -15,8 +15,8 @@ Magic Mirror module to display the free [Bored API](https://www.boredapi.com/).
 ## Installation
   1. Clone this repo into your `modules` directory.
   2. cd into NextTrains
-  3 ```npm install request```
-  3. Create an entry in your `config.js` file to tell this module where to display on screen.
+  3. ```npm install request```
+  4. Create an entry in your `config.js` file to tell this module where to display on screen.
   
  **Example:**
 ```
