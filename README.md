@@ -24,7 +24,7 @@ Magic Mirror module to display the free [Bored API](https://www.boredapi.com/).
      module: 'BoredDaily',
      position: 'bottom_bar',
      config: {
-     updateInterval: "10"
+         updateInterval: "10"
      }
 },
 ```
